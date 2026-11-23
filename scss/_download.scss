@@ -15,6 +15,8 @@ section.download {
             }
             img {
                 height: 60px;
+                max-width: 100%;
+                object-fit: contain;
             }
             @media(min-width: 768px) {
                 display: inline-block;

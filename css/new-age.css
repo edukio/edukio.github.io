@@ -229,6 +229,8 @@ section.download .badges .badge-link:last-child {
 
 section.download .badges .badge-link img {
     height: 60px;
+    max-width: 100%;
+    object-fit: contain;
 }
 
 @media (min-width: 768px) {
@@ -573,4 +575,4 @@ footer ul li a.active {
      -webkit-transform: rotate(180deg);
      -moz-transform: rotate(180deg);
      transform: rotate(180deg);
- } 
+ }
