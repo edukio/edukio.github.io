@@ -1,32 +1,29 @@
 {
-    "title": "New Age",
-    "name": "startbootstrap-new-age",
+    "title": "Edukio",
+    "name": "edukio-site",
     "version": "5.0.7",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "A one page app landing page HTML theme for Bootstrap.",
+    "description": "Edukio: soluções para melhorar a gestão e a comunicação nas instituições de ensino. Conheça o sistema web, o aplicativo Android e a extensão para Chrome.",
     "keywords": [
-        "css",
-        "sass",
+        "edukio",
+        "educacao",
+        "gestao-escolar",
+        "site-institucional",
         "html",
-        "responsive",
-        "theme",
-        "template"
+        "css",
+        "javascript"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/new-age",
+    "homepage": "https://edukio.com",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-new-age/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/edukio/edukio.github.io/issues"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
+    "author": "Edukio",
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-new-age.git"
+        "url": "https://github.com/edukio/edukio.github.io.git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.10.2",
