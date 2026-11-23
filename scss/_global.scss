@@ -50,3 +50,16 @@ section {
         font-size: 50px;
     }
 }
+
+// Fill the device screen while preserving the screenshot proportions.
+.device-mockup > .device > .screen > img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+// Align the image with the visible opening in the iPhone frame.
+.device-mockup.iphone6_plus.portrait > .device > .screen {
+    top: 11.45%;
+}
